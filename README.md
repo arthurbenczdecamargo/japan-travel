@@ -29,7 +29,7 @@ Traveling to Japan has been a dream of mine since I started studying japanese, s
 
 ### Future features:<br>
 • Search bar;<br>
-• ~~API exchange rate;~~
+• ~~API exchange rate;~~ <br>
 • Login.
 
 ## Notes
