@@ -45,8 +45,8 @@ body {
 }
 
 .cabecalho__icone {
-    width: 62px;
-    border: 1px solid var(--cor-principal);
+    width: 60px;
+    border: 2px solid var(--cor-principal);
 }
 
 .cabecalho__menu__nav {
@@ -57,6 +57,19 @@ body {
 
 .cabecalho__menu__nav:hover {
     color: var(--cor-principal);
+}
+
+.cabecalho__menu__cotacao {
+    border: solid 2px black;
+    margin-left: auto;
+    margin-right: 0.5em;
+}
+
+.cabecalho__menu__cotacao__valor {
+    font-size: var(--fonte-tamanho-cabecalho);
+    font-weight: var(--fonte-peso-cabecalho);
+    color: var(--cor-principal);
+    margin: 0 0.2em;
 }
 
 .nav {
